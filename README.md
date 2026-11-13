@@ -1,3 +1,7 @@
+![Telegram Gifts: a plain guide to prices, rarity and trading](docs/assets/header.png)
+
+**[Read it as a website](https://05v.github.io/telegram-gifts/)** · **[Live prices on Sales Tracker](https://salestracker.tg)**
+
 # Telegram Gifts: a plain guide to prices, rarity and trading
 
 Telegram gifts are collectible items you buy with Telegram Stars and show on your profile. Once upgraded, each gift becomes a unique collectible on the TON blockchain with its own model, backdrop, symbol and serial number, and it can be bought and sold like any other NFT.
