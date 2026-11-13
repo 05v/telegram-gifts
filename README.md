@@ -204,4 +204,4 @@ No. Fragment is Telegram's platform for TON collectibles, including usernames an
 
 ---
 
-Figures come from [Sales Tracker](https://salestracker.tg) and are dated where shown. Sales Tracker is independent and not affiliated with Telegram. This guide is text only and is offered under CC BY 4.0.
+Figures come from [Sales Tracker](https://salestracker.tg) and are dated where shown. Sales Tracker is independent and not affiliated with Telegram.0.
